@@ -1,0 +1,28 @@
+Title: Without me
+Performer: Eminem
+Album: GG
+Release year: 2003
+Genre: Rap
+Length: 3:44
+
+Title: Billy Jane
+Performer: Micheal Jackson
+Album: Thriller
+Release year: 1998
+Genre: Dance
+Length: 4:55
+
+Title: Gimme Gimme
+Performer: ADBD
+Album: Great
+Release year: 1989
+Genre: Rock
+Length: 4:55
+
+Title: Till I collapse
+Performer: Eminem
+Album: DD
+Release year: 2003
+Genre: Rap
+Length: 4:55
+
